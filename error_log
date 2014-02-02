@@ -1,0 +1,22 @@
+[27-Oct-2013 04:15:22 Europe/Moscow] PHP Warning:  move_uploaded_file(upload/a.txt) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: No such file or directory in /home/cricketp/public_html/08/upload_file.php on line 21
+[27-Oct-2013 04:15:22 Europe/Moscow] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/php4ww3wG' to 'upload/a.txt' in /home/cricketp/public_html/08/upload_file.php on line 21
+[27-Oct-2013 04:19:41 Europe/Moscow] PHP Warning:  copy(a.txt) [<a href='function.copy'>function.copy</a>]: failed to open stream: No such file or directory in /home/cricketp/public_html/08/upload_file.php on line 4
+[27-Oct-2013 04:22:15 Europe/Moscow] PHP Warning:  copy(a.txt) [<a href='function.copy'>function.copy</a>]: failed to open stream: No such file or directory in /home/cricketp/public_html/08/upload_file.php on line 4
+[27-Oct-2013 04:23:00 Europe/Moscow] PHP Warning:  copy(a.txt) [<a href='function.copy'>function.copy</a>]: failed to open stream: No such file or directory in /home/cricketp/public_html/08/upload_file.php on line 4
+[27-Oct-2013 04:23:39 Europe/Moscow] PHP Warning:  copy(a.txt) [<a href='function.copy'>function.copy</a>]: failed to open stream: No such file or directory in /home/cricketp/public_html/08/upload_file.php on line 4
+[27-Oct-2013 04:31:13 Europe/Moscow] PHP Warning:  copy(a.txt) [<a href='function.copy'>function.copy</a>]: failed to open stream: No such file or directory in /home/cricketp/public_html/08/upload_file.php on line 4
+[27-Oct-2013 04:33:13 Europe/Moscow] PHP Warning:  copy(a.txt) [<a href='function.copy'>function.copy</a>]: failed to open stream: No such file or directory in /home/cricketp/public_html/08/upload_file.php on line 4
+[27-Oct-2013 04:33:58 Europe/Moscow] PHP Warning:  copy(a.txt) [<a href='function.copy'>function.copy</a>]: failed to open stream: No such file or directory in /home/cricketp/public_html/08/upload_file.php on line 4
+[27-Oct-2013 04:35:37 Europe/Moscow] PHP Warning:  copy(a.txt) [<a href='function.copy'>function.copy</a>]: failed to open stream: No such file or directory in /home/cricketp/public_html/08/upload_file.php on line 4
+[27-Oct-2013 05:34:56 Europe/Moscow] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, array given in /home/cricketp/public_html/08/view.php on line 6
+[27-Oct-2013 05:39:55 Europe/Moscow] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cricketp/public_html/08/view.php:15) in /home/cricketp/public_html/08/view.php on line 27
+[27-Oct-2013 06:23:42 Europe/Moscow] PHP Fatal error:  Cannot redeclare aasort() (previously declared in /home/cricketp/public_html/08/view.php:38) in /home/cricketp/public_html/08/view.php on line 38
+[27-Oct-2013 06:33:55 Europe/Moscow] PHP Warning:  Invalid argument supplied for foreach() in /home/cricketp/public_html/08/view.php on line 139
+[27-Oct-2013 06:34:29 Europe/Moscow] PHP Warning:  Invalid argument supplied for foreach() in /home/cricketp/public_html/08/view.php on line 140
+[27-Oct-2013 06:34:48 Europe/Moscow] PHP Warning:  Invalid argument supplied for foreach() in /home/cricketp/public_html/08/view.php on line 139
+[27-Oct-2013 06:35:02 Europe/Moscow] PHP Warning:  Invalid argument supplied for foreach() in /home/cricketp/public_html/08/view.php on line 139
+[27-Oct-2013 06:35:11 Europe/Moscow] PHP Warning:  Invalid argument supplied for foreach() in /home/cricketp/public_html/08/view.php on line 139
+[27-Oct-2013 06:37:34 Europe/Moscow] PHP Warning:  Invalid argument supplied for foreach() in /home/cricketp/public_html/08/view.php on line 142
+[27-Oct-2013 06:38:25 Europe/Moscow] PHP Warning:  Invalid argument supplied for foreach() in /home/cricketp/public_html/08/view.php on line 143
+[27-Oct-2013 06:41:11 Europe/Moscow] PHP Warning:  Invalid argument supplied for foreach() in /home/cricketp/public_html/08/view.php on line 146
+[27-Oct-2013 07:24:16 Europe/Moscow] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home/cricketp/public_html/08/view.php on line 184
